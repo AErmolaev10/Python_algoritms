@@ -226,3 +226,10 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+.idea/.gitignore
+.idea/Python_algoritms.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+Homeworks/
